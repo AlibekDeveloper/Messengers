@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">MessengerRV</string>
+    <string name="youtube">YouTube</string>
+    <string name="telegram">Telegram</string>
+    <string name="instagram">Instagram</string>
+    <string name="facebook">Facebook</string>
+    <string name="title">Ijtimoiy tarmoqlarda tezkor reklamalar</string>
+    <string name="description">
+        Obunachilarni jalb qilish, yoqtirishlar to‘plash,repostlarni olishning eng yaxshi usuli
+    </string>
+
+    <string name="subs">Obunachilar</string>
+    <string name="add_subs">Kanalingizga obunachi qo‘shish</string>
+    <string name="like">Layk</string>
+    <string name="add_like">Videodagi likelar sonini oshiring</string>
+    <string name="comment">Koment</string>
+    <string name="add_comment">Kommentlar sonini oshiring</string>
+    <string name="view_min">Ko‘rilish daqiqasi</string>
+    <string name="add_viewers_min">Videodagi ko‘rilish daqiqasi</string>
+    <string name="view_count">Ko‘rishlar soni</string>
+    <string name="add_viewers_count">Videodagi ko’rishlar sonini oshiring</string>
+
+
+
+    <string name="create_orders">Buyurtma yaratish</string>
+    <string name="my_orders">Buyurtmalarim</string>
+    <string name="basket">Savat</string>
+    <string name="profile">Profil</string>
+</resources>
