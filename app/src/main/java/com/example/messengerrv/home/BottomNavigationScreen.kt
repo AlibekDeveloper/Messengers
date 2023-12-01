@@ -1,4 +1,4 @@
-package com.example.messengerrv
+package com.example.messengerrv.home
 
 import android.annotation.SuppressLint
 import androidx.compose.foundation.layout.padding
@@ -19,6 +19,7 @@ import androidx.navigation.compose.NavHost
 import androidx.navigation.compose.composable
 import androidx.navigation.compose.currentBackStackEntryAsState
 import androidx.navigation.compose.rememberNavController
+import com.example.messengerrv.R
 
 @SuppressLint("UnusedMaterialScaffoldPaddingParameter")
 @Composable

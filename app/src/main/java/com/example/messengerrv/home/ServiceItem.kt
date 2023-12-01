@@ -1,4 +1,4 @@
-package com.example.messengerrv.items
+package com.example.messengerrv.home
 
 import androidx.compose.foundation.Image
 import androidx.compose.foundation.background

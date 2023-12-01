@@ -21,9 +21,22 @@
     <string name="add_viewers_count">Videodagi ko’rishlar sonini oshiring</string>
 
 
-
     <string name="create_orders">Buyurtma yaratish</string>
     <string name="my_orders">Buyurtmalarim</string>
     <string name="basket">Savat</string>
     <string name="profile">Profil</string>
+
+    <string name="order_info">Buyurtma ma’lumotlari</string>
+    <string name="order_info_fill">Buyurtma berish uchun quyidagi ma’lumotlarni to‘ldiring</string>
+    <string name="service_type_title">Xizmat turi</string>
+    <string name="service_type_description">
+        Bu yerda siz ijtimoiy tarmoq turini va
+        sizga qaysi ish turi to‘g‘ri kelishini kiritish mumkin
+    </string>
+
+    <string-array name="list_spinner">
+        <item>YouTube</item>
+        <item>Telegram</item>
+    </string-array>
+
 </resources>
